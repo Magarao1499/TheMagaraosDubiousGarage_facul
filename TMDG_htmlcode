@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Magarão's Dubious Garage</title>
+    <link rel="stylesheet" href="The Magarão's Dubious Garage.css" />
+    <link rel="shortcut icon" href="The Magarão's Dubious Garage logo 2-fotor-bg-remover-2023060815355.png" type="image/x-icon">
+  </head>
+  <body>
+    <header>
+      <div class="content">
+        <nav>
+          <p class="brand">The Magarão's Dubious Garage</p>
+          <ul>
+            <li><a href="#catalog">CATÁLOGO</a></li>
+            <li><a href="#about">SOBRE</a></li>
+            <li><a href="#feature">ADICIONAIS</a></li>
+          </ul>
+        </nav>
+        <div class="header-block">
+          <div class="text">
+            <h2>O lar das péssimas histórias</h2>
+            <p>
+              "Até porque filme ruim é bom pra c@#$&#*!"
+            </p>
+          </div>
+          <img src="Ash saradão e a madame bonitona.png" alt="Um homem musculoso e com uma bela dama aos seus pés" />
+        </div>
+      </div>
+    </header>
+    <section class="catalog" id="catalog">
+      <div class="content">
+        <div class="card-wrapper">
+          <div class="card-item">
+            <img src="Biscoito Assassino.jpg" alt="Um Biscoito possído por um espírito e o rosto de um homem gritando" />
+            <div class="card-content">
+              <h3>O BISCOITO ASSASSINO</h3>
+              <p>
+                Inspirado em "Chucky", o biscoito assassino mistura uma antiga tradição alimentícia de Natal com o mesmo conceito de um espírito invadindo um objeto inanimado. Uma fome de matar! Haha!
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=mLFVY41RmtA" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O Ataque dos Tomates Assassinos.jpg" alt="Um tomante gigante atacando a costa de uma praia" />
+            <div class="card-content">
+              <h3>O ATAQUE DOS TOMATES ASSASSINOS</h3>
+              <p>
+                Para quê assistir aos clássios de terros dos anos setenta? Pô, esse filme, diferente de "Tubarão" e "Sexta-Feira 13", tem a história de legumes matando gente por aí!
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=txfdGlxEsG8" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O Duende.jpg" alt="Duende da cultura irlandesa saindo por uma porta" />
+            <div class="card-content">
+              <h3>O DUENDE</h3>
+              <p>
+                Esse foi o primeiro filme em que Jennifer Aniston. Sim, a mesma Jennifer Aniston de "Friends". E eu tenho apenas uma pergunta para você: Por que não?
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=hVoPigT72vk" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O Meme do Mal.jpeg" alt="Meme amaldiçoado sorrindo" />
+            <div class="card-content">
+              <h3>O MEME DO MAL</h3>
+              <p>
+                Haha, sim! Um meme do mal! Que mata gente e tudo! O que poderia ter de ruim nesse filme? 
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=MFxlScCBSp8" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O Sofá Assassino.jpg" alt="Car" />
+            <div class="card-content">
+              <h3>O SOFÁ ASSASSINO</h3>
+              <p>
+                Esse foi um dos meus primeiros filmes ruins! Que imagina como seria se antigos espíritos escoseses do mal invadissem o corpo de uma poltrona. Vê se não dorme, hein! 
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=MFxlScCBSp8" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O ataque do dedo gigante borrado.jpg" alt="Um dedo borrado espreitando uma mulher" />
+            <div class="card-content">
+              <h3>O ATAQUE DO DEDO GIGANTE BORRADO</h3>
+              <p>
+                Pô, nem eu entendi esse. Cheguei a um ponto desse filme que eu não conseguia mais entendê-lo. E talvez fosse melhor assim. Recomendo que o veja, mas, com cuidado...
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=StTt_Lvs1SU" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="Os Palhaços Assassinos do Espaço Sideral.jpg" alt="Um grupo de palhaços a frente de uma imagem ruim do espaço" />
+            <div class="card-content">
+              <h3>OS PALHAÇOS ASSASSINOS DO ESPAÇO SIDERAL</h3>
+              <p>
+                É, bom, acho que o título já diz tudo. São palhaços, que vêm do espaço, e matam gente. O que mais eu poderia falar além do óbvio?
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=ETiSMS4i1as" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="Rubber, O Pneu Assassino.jpeg" alt="Um pneu e uma mulher a frente de um posto de gasolina. Encostados um no outro, como se numa foto para a capa de uma revista romântica" />
+            <div class="card-content">
+              <h3>RUBBER, O PNEU ASSASSINO</h3>
+              <p>
+                Basicamnte um pneu rolando e matando... Pé na estrada!
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=hVKgY1ilx0Y" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="Sharknado.jpeg" alt="Um tornado de tubarões que se projetam até a tela" />
+            <div class="card-content">
+              <h3>SHARKNADO</h3>
+              <p>
+                Talvez esse seja o exemplar mais conhecido da categoria de filmes z. Que ganhou fama com comentários irônicos na internet e surpreendo os seus telespectaodres sendo tão ruim que fica bom!
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=M-pXDoe5a0E" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O atauqe do pênis mutante do espaço.jpeg" alt="Um homem pênis atacando um homem normal" />
+            <div class="card-content">
+              <h3>O ATAQUE DO PÊNIS MUTANTE DO ESPAÇO</h3>
+              <p>
+                Um alien em formato de pênis aterrisa na Terra e mata pessoas de formas bizarras. O que você quer que eu diga? 
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=7KVJFuWH8LI" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="o exorcista de tubarões.jpg" alt="Um exorcista tentando confrontar um tubarão imenso de fogo" />
+            <div class="card-content">
+              <h3>O EXORCISTA DE TUBARÕES</h3>
+              <p>
+                Um padre sai EUA afora para exorcisar tubarões. Esse catálogo está cada vez melhor, kkkkk..
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=rmrJynn-VA4" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O Vingador Tóxico.jpeg" alt="Um homem deformado carregando uma mulher nos seus bíceps" />
+            <div class="card-content">
+              <h3>O VINGADOR TÓXICO</h3>
+              <p>
+                Haha! Uma lição de empatia e solidariedade! Um rapaz sofre um acidente e fica deformado, e também luta contra as injutiças!  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=sKeONEIskWI&t=2s&pp=ygUZdGhlIHRveGljIGF2ZW5nZXIgdHJhaWxlcg%3D%3D" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="O-Ataque-dos-Chihuahuas-de-15-Metros-do-Espaço-Sideral-960x626.jpg" alt="Quatro fotos de chihuahuas atacando uma cidade" />
+            <div class="card-content">
+              <h3>O ATAQUE DOS CHIHUAHUAS DE 15 METROS DO ESPAÇO SIDERAL</h3>
+              <p>
+               Deus do céu, um monólogo como título! Tenho certeza de que essa curta-metragem foi feita com propósitos irônicos.  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=cAu3raRBAfE" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="soul man.jpeg" alt="Um homem branco pintado como se fosse um negro" />
+            <div class="card-content">
+              <h3>UMA ESCOLHA MUITO LOUCA</h3>
+              <p>
+                Um jovem, para entrar para uma faculdade que ele deseja cursar, começa a tomar remédios que mudam o tom da pele dele para uma pele negra. Esse filme é um pouco polêmico, mas vale a pena se arriscar.  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=BTtF7gzieN4" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="the bicht is back.jpeg" alt="Uma boneca inflável segurando uma arma" />
+            <div class="card-content">
+              <h3>THE BITCH IS BACK</h3>
+              <p>
+                Uma boneca inflável decide atacar o seu dono. Pare e repense no buraco em que você está se metendo. Haha!  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=zXrJOSSnVEE" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="theodore rex.jpeg" alt="Um dinossauro humanóide e uma mulher detetive como um par policial" />
+            <div class="card-content">
+              <h3>THEODORE REX</h3>
+              <p>
+                Jesus, haha! Uma dupla de policiais, sendo um deles um dinossauro, tem de resolver um crime. Mas, bem, o destaque está no policial.  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=dY7gsUL9Xkk" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="willy milly.jpg" alt="Um garoto e uma garota sentados, conversando" />
+            <div class="card-content">
+              <h3>WILLY MILLY</h3>
+              <p>
+                Uma jovem garotinha bebe um líquido misterioso e ganha um pênis no dia seguinte. Brilhante!  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=R8230LzdwMU" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="wolfcop.jpeg" alt="Um lobisomem policial " />
+            <div class="card-content">
+              <h3>LOBOCOP</h3>
+              <p>
+                Um policial que vira lobisomem. O que foi? O que você quer?  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=f_P4C8x9S28" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="The Drone.jpg" alt="Um drone 'sentado' no assento de uma cadeira" />
+            <div class="card-content">
+              <h3>THE DRONE</h3>
+              <p>
+                Haha! Imagine um drone que mata. Sim, um drone que mata! Um droe assassino! É para esse tipo de coisa que o cinema deve existir!  
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=_eu8_YfwhDs" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="The refrigerator.jpg" alt="A porta de uma geladeira engolindo o corpo de um homem" />
+            <div class="card-content">
+              <h3>THE REFRIGERATOR</h3>
+              <p>
+                Da série de eletrodomésticos assasinos, aqui temos uma geladeira que manda os seus donos diretamente para o inferno. Recomendo que você não tenha olho gordo com as coisas, filho. Haha!   
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=LcmsuDwy_bg" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="The Mangler.jpg" alt="Um homem pondo outro homem numa máquina irreconhecível" />
+            <div class="card-content">
+              <h3>THE MANGLER</h3>
+              <p>
+                Stephen King. O ator do Freddie Krueger. E o diretor de Poltergeist. Por que ainda estamos aqui, enrolando? Vamos! Nós temos de ver isso!   
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=BhTgzfMwpiQ" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="Poultrygiest.jpg" alt="Um militar olhando para frente, enquanto uma galinha mutante está atrás dele" />
+            <div class="card-content">
+              <h3>POULTRYGIEST</h3>
+              <p>
+                Um bando de galinhas zumbis acorda e vai matar alguns funcionários de uma lanchonete, porque ela tinha sido construída sobre um território sagrado. Eu estou sem palavras...   
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=yzEA5R0XHOQ" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="cannibal-the-musical.jpeg" alt="Um homem olhando para a língua que ele arrancou do seu amigo" />
+            <div class="card-content">
+              <h3>CANNIBAL! THE MUSICAL</h3>
+              <p>
+                Musical e canibalismo. Humor ácido, e em baseado em fatos reais... Está aí uma boa proposta para sair da caixinha.   
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=P-r8qJhJWeo" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="hobo with a shotgun.jpeg" alt="Um homem, já na melhor idade, armado com uma escopeta nas mãos" />
+            <div class="card-content">
+              <h3>HOBO WITH A SHOTGUN</h3>
+              <p>
+                Um mendigo encontra uma escopeta e começa a matar que ele menos gosta. Boa ideia, não?   
+              </p>
+              <button type="button">
+                
+                <a href="https://www.youtube.com/watch?v=XJF-gQVlXs4" target="_blank">
+
+                  TRAILER
+                
+                </a>
+                
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="content">
+        <div class="title-wrapper-about">
+          <p>UMA HISTÓRIA ALÉM DAS RUINS (PÉSSIMAS)</p>
+          <h3>sobre "nós"</h3>
+        </div>
+    
+          <div class="right">
+            <h3>POR QUE EU FIZ ESSE SITE?</h3>
+            <p>
+              Bom, talvez essa seja a melhor hora de soltar o meu coração. Desde pequeninho, acho que aos meus nove ou dez anos de idade, eu sempre gostei de histórias que fugiam do pardão e pegavam os conceitos básicos do cinema para esfregá-los na nossa cara e mostrar que tudo era possível (ou impossível). Afinal, do que seria do mundo sem as risadas ou das coisas de menor nível? Ou melhor, de um nível ridículo? Os filmes ruins, direta ou indiretamente, influenciam as pessoas imaginarem além do simples e não apenas fugir da caixinha, mas sim explodí-la com muito rock'n'roll e rebeldia. Dos dedos aos biscoitos de gergelin, todos podem se inspirar parar criar histórias mirabolantes que surpreendam e certamente estejam num nível de qualidade maior que o desses filmes, kkkkk... Bom, não me resta muito para falar, a não ser, claro, que "que filme ruim é bom pra c@#$%&*"!
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+
+    <footer>
+      <div class="main">
+        <div class="content footer-links">
+          <div class="footer-company">
+            <h4>EQUIPE</h4>
+            <h6>Magarão</h6>
+            <h6>Magarão</h6>
+          </div>
+          <div class="footer-rental">
+            <h4>COLABORADORES</h4>
+            <h6>Magarão</h6>
+            <h6>Magarão</h6>
+            <h6>Uma ajudinha da internet</h6>
+          </div>
+          <div class="footer-social">
+            <h4>MEU INSTAGRAM (CEMITÉRIO)</h4>
+            <div class="social-icons">
+              <a href="https://www.instagram.com/magarao0314/" target="_blank">
+              <img src="a new instagram icon kkkkk.png" alt="Instagram" />
+            </a>
+            </div>
+          </div>
+          <div class="footer-contact">
+            <h4>PODE ME CONTATAR, MENOS ME XINGAR!</h4>
+            <h6>+55 (21) 96980-4725</h6>
+            <h6>luanmagarao@gmail.com</h6>
+          </div>
+        </div>
+      </div>
+      <div class="last">The Magarão's Dubious Garage, o lar das péssimas histórias</div>
+    </footer>
+  </body>
+</html>
